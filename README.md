@@ -53,7 +53,7 @@
 <br>
 <br>
 
-<details align="center">  
+<details align="center" open>  
   <summary>
       <samp>
         <b>More Info</b>
